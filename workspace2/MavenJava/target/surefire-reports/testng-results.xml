@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="190" started-at="2021-10-02T13:23:36 IST" finished-at="2021-10-02T13:23:36 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="190" started-at="2021-10-02T13:23:36 IST" finished-at="2021-10-02T13:23:36 IST">
+      <class name="krish.MavenJava.RESTAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:krish.MavenJava.RESTAPITest@59fa1d9b]" name="deleteTwitter" duration-ms="0" started-at="2021-10-02T13:23:36 IST" finished-at="2021-10-02T13:23:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:krish.MavenJava.RESTAPITest@59fa1d9b]" name="postJira" duration-ms="0" started-at="2021-10-02T13:23:36 IST" finished-at="2021-10-02T13:23:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- krish.MavenJava.RESTAPITest -->
+      <class name="krish.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:krish.MavenJava.SeleniumTest@28d25987]" name="browserAutomation" duration-ms="0" started-at="2021-10-02T13:23:36 IST" finished-at="2021-10-02T13:23:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:krish.MavenJava.SeleniumTest@28d25987]" name="elementsUi" duration-ms="0" started-at="2021-10-02T13:23:36 IST" finished-at="2021-10-02T13:23:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- krish.MavenJava.SeleniumTest -->
+      <class name="krish.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="iosApps()[pri:0, instance:krish.MavenJava.AppiumTest@d8355a8]" name="iosApps" duration-ms="8" started-at="2021-10-02T13:23:36 IST" finished-at="2021-10-02T13:23:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosApps -->
+        <test-method status="PASS" signature="nativeAndroid()[pri:0, instance:krish.MavenJava.AppiumTest@d8355a8]" name="nativeAndroid" duration-ms="1" started-at="2021-10-02T13:23:36 IST" finished-at="2021-10-02T13:23:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAndroid -->
+      </class> <!-- krish.MavenJava.AppiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
